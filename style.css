@@ -315,6 +315,11 @@ footer {
     color: #fff;
     text-decoration: none;
   }
+
+  header nav a{
+    font-size: 1rem;
+  }
+  
   
   #home .img {
     top: 4rem;
